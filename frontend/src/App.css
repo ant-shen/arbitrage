@@ -1,0 +1,17 @@
+.App {
+    font-family: sans-serif;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+  }
+  .arb-card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 15px;
+    background: #f9f9f9;
+  }
+  .arb-card h2 {
+    margin-top: 0;
+  }
+  
